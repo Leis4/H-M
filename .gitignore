@@ -1,0 +1,14 @@
+/data/archive
+/images/
+
+*.jpg
+*.csv
+*.db
+*.duckdb
+
+*.pt
+*.pth
+*.pkl
+
+.idea/
+__pycache__/
